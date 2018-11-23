@@ -5,7 +5,7 @@
  * @copyright			(C) 2015-2030 YANG QQ182860914
  * @license
  * author:chzeze
- * updata:2018年11月23日10:18:31
+ * updata:2018年11月23日
  */
 
 define('RUN_PATH', dirname(__FILE__).DIRECTORY_SEPARATOR);
